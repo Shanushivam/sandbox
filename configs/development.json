@@ -1,0 +1,12 @@
+{
+  "cpu_percent": 80,
+  "memory_mb": 256,
+  "pid_namespace": true,
+  "mount_namespace": true,
+  "network_namespace": false,
+  "restricted_filesystem": false,
+  "security_policy": false,
+  "timeout_seconds": 0,
+  "hostname": "sandboxx",
+  "rootfs": "./rootfs"
+}
